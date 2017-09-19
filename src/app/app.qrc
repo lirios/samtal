@@ -1,0 +1,21 @@
+<!--
+SPDX-FileCopyrightText: 2020 Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
+<RCC>
+    <qresource prefix="/">
+        <file>qml/BasePage.qml</file>
+        <file>qml/BufferSideBar.qml</file>
+        <file>qml/ChatPage.qml</file>
+        <file>qml/ChatTextBrowser.qml</file>
+        <file>qml/JoinDialog.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/MessageFormatter.qml</file>
+        <file>qml/PlaceholderPage.qml</file>
+        <file>qml/TextEntry.qml</file>
+        <file>qml/TopicLabel.qml</file>
+        <file>qml/UsersSideBar.qml</file>
+    </qresource>
+</RCC>

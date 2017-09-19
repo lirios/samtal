@@ -1,0 +1,70 @@
+<!--
+SPDX-FileCopyrightText: 2020 Pier Luigi Fiorini <pierluigi.fiorini@gmail.com>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>io.liri.Samtal.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Samtal</name>
+  <summary>A Material Design based Internet Relay Chat client</summary>
+  <description>
+    <p>
+      A simple Internet Relay Chat (IRC) client that is designed to integrate
+      seamlessly with the Liri OS and apps, but can also be used on other
+      platforms as well.
+    </p>
+    <p>
+      It features a simple and clean user interface, which allows you to
+      focus on your conversations.
+    </p>
+    <p>
+      Samtal allows you to publicly chat with people in a channel, and to
+      have private one-to-one conversations.
+    </p>
+  </description>
+  <!-- TODO: Add screenshots -->
+  <url type="homepage">https://liri.io</url>
+  <update_contact>info@liri.io</update_contact>
+  <releases>
+    <release versione="1.0.0" date="">
+      <description>
+        <p>
+          We are proud to announce the immediate availability of Liri Samtal 1.0.
+        </p>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+</component>
